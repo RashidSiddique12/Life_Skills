@@ -17,14 +17,21 @@
 **In-Memory Caching:**
 - Rapid access to frequently used data stored in memory.
 - Potential improvement in response times.
+  
+![diagram-MemoryCache-400x400-1](https://github.com/RashidSiddique12/Life_Skills/assets/94442631/1b9b3042-ea05-4b92-ac5a-884b91fc9a90)
 
 **Database Query Result Caching:**
 - Caching the results of frequently executed database queries.
 - Aimed at reducing database load and speeding up query responses.
+  
+![TNplA](https://github.com/RashidSiddique12/Life_Skills/assets/94442631/2796612e-870f-4368-b915-0025f204fa98)
+
 
 **Content Delivery Networks (CDNs):**
 - Distributing data across global servers for improved access speed.
 - Particularly beneficial for users located far from the hosting server.
+  
+![High-level-understanding-of-Content-Delivery-Networks](https://github.com/RashidSiddique12/Life_Skills/assets/94442631/75448740-30f2-4afa-b90f-2f22744404e2)
 
 **Caching Proxy:**
 - Introducing a caching proxy between clients and servers to optimize data transfer.
