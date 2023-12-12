@@ -15,7 +15,7 @@
 <hr>
 
 ### Question 3
-##### How can you implement the principles in your day to day life?
+#### How can you implement the principles in your day to day life?
 
 **Answer:-**
 - **Designate My Deep Work Time:** I block off specific hours in my daily or weekly schedule for concentrated work.
