@@ -3,7 +3,7 @@
 
 ### Question 1
 #### Which point(s) were new to you?
-**Answer:-** These two points are new to me:
+**Answer:-** These points are new to me:
 
 - Getting frequent feedback to ensure I am on track and everyone is on the same page.
 - Using tools like TimeLimit and Freedom to remove notifications during work hours.
